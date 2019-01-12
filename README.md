@@ -8,8 +8,9 @@
 
 ### ❏ SCALA
 > * [Learning Scala 실습코드⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/scala)
+> * [<러닝 스칼라> 리포지토리⭐](https://github.com/Jpub/LearningScala)
 > * [SCALA API DOCS](https://docs.scala-lang.org/api/all.html)
-> * [tour-of-scala(Korean)⭐](https://docs.scala-lang.org/ko/tutorials/tour/tour-of-scala.html)
+> * [tour-of-scala(Korean)](https://docs.scala-lang.org/ko/tutorials/tour/tour-of-scala.html)
 
 ### ❏ IDE
 > * [서브라임 텍스트(Sublime Text)-플러그인 설치](http://webdir.tistory.com/396)
