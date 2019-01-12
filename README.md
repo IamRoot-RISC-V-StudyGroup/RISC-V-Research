@@ -5,6 +5,8 @@
 > * [Group activity MindMap](https://coggle.it/diagram/WxJrxiozRo4MoU1I/t/risc-v-online_study_group_2018-%F0%9F%96%A5)
 
 ***
+### ❏ Git 사용법
+> * [GIT Cheatsheet for RISC-V study members⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/git#git-cheatsheet-for-risc-v-study-members)
 
 ### ❏ SCALA
 > * [Learning Scala 실습코드⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/scala)
