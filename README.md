@@ -16,10 +16,10 @@
 
 ### ❏ Verilog resource
 > * [CSCE 611: Advanced Digital Design](https://www.youtube.com/channel/UCEgu66lsVSS_SNvUCMWjmZg/videos)
-> * [SystemVerilog for verification Tutorial](https://www.youtube.com/playlist?list=PLF4DeZAfqGSar69xWgw5TpFuszBd1FSJJ)
-> * [SystemVerilog](https://www.youtube.com/playlist?list=PLBIILfL2t1lnfJyeoqDTTuwQttOPtsf4L)
-> * [VLSI](https://www.youtube.com/playlist?list=PLFhizsGPFKt8gz-bYlKMDCgBKwxMc33H2)
-> * [SystemVerilog Classes](https://www.youtube.com/playlist?list=PLYdInKVfi0KZ1HMVNNcxvvWhYJMmLAq_g)
+> * [SystemVerilog for verification Tutorial ⭐](https://www.youtube.com/playlist?list=PLF4DeZAfqGSar69xWgw5TpFuszBd1FSJJ)
+> * [SystemVerilog ⭐](https://www.youtube.com/playlist?list=PLBIILfL2t1lnfJyeoqDTTuwQttOPtsf4L)
+> * [VLSI ⭐](https://www.youtube.com/playlist?list=PLFhizsGPFKt8gz-bYlKMDCgBKwxMc33H2)
+> * [SystemVerilog Classes ⭐](https://www.youtube.com/playlist?list=PLYdInKVfi0KZ1HMVNNcxvvWhYJMmLAq_g)
 
 ### ❏ RISCV
 > * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
