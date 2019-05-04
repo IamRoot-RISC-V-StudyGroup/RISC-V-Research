@@ -8,19 +8,6 @@
 ### ❏ Git 사용법
 > * [GIT Cheatsheet for RISC-V study members⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/git#git-cheatsheet-for-risc-v-study-members)
 
-### ❏ SCALA
-> * [Learning Scala 실습코드⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/Learning-Scala)
-> * [<러닝 스칼라> 리포지토리⭐](https://github.com/Jpub/LearningScala)
-> * [SCALA API DOCS](https://docs.scala-lang.org/api/all.html)
-> * [tour-of-scala(Korean)](https://docs.scala-lang.org/ko/tutorials/tour/tour-of-scala.html)
-
-### ❏ IDE
-> * [서브라임 텍스트(Sublime Text)-플러그인 설치](http://webdir.tistory.com/396)
-> * [서브라임 텍스트(Sublime Text)-유용한 패키지들 목록](https://opentutorials.org/module/2251/12791)
-> * [서브라임 텍스트(Sublime Text)-PackageControl](https://packagecontrol.io/)
-> * [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux)
-> * [Install IntelliJ IDEA IDE On Ubuntu 16.04 / 17.10 / 18.04](https://websiteforstudents.com/install-intellij-idea-ide-on-ubuntu-16-04-17-10-18-04/)
-
 ### ❏ RISCV
 > * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
 > * [riscv-soc-cores](https://github.com/open-design/riscv-soc-cores)
@@ -28,19 +15,6 @@
 > * [Keynote: RISC V – Enabling A New Era Of Open Data-Centric Computing Architectures](https://www.youtube.com/watch?v=ATZls4lbwmM)
 > * [BOOM v2: An Open Source Out Of Order RISC V Core](https://www.youtube.com/watch?v=toc2GxL4RyA)
 
-### ❏ Chisel & RocketChip
-> * [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
-> * [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
-> * [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
-> * [Rocket Chip Generator](https://github.com/freechipsproject/rocket-chip)
-> * [Simple RISC-V 3-stage Pipeline in Chisel⭐](https://github.com/ucb-bar/riscv-mini)
-> * [VLSI Systems Design_2011](http://www-inst.eecs.berkeley.edu/~cs250/fa11/)
-> * [VLSI Systems Design_2017](http://www-inst.eecs.berkeley.edu/~cs250/sp17/)
-> * [Rocket Chip on FPGAs](https://github.com/ucb-bar/fpga-zynq/blob/master/README.md)
-> * [SiFive's Freedom platforms](https://github.com/sifive/freedom)
-> * [Artix-7 35T Arty FPGA Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/arty.html)
-> * [riscv-sodor](https://github.com/librecores/riscv-sodor)
-> * [learning-journey](https://github.com/Intensivate/learning-journey) 
 
 ### **<div align="right" size='11'>[🔝](#top)</div>**
 
@@ -81,6 +55,34 @@ Computer Architecture teaching with FPGAs](https://www.cl.cam.ac.uk/~atm26/pubs/
 > * [Spartan-7 FPGA가 장착된 Arty S7-50 기판](https://www.digikey.kr/ko/product-highlight/d/digilent/arty-s7-50-board-with-spartan-7-fpga)
 > * [프로그램 가능 논리 IC 개발 툴 Arty S7-50](https://www.eleparts.co.kr/goods/view?no=5982349)
 > * [Arty](https://reference.digilentinc.com/reference/programmable-logic/arty/start)
+
+### ❏ SCALA
+> * [Learning Scala 실습코드⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/Learning-Scala)
+> * [<러닝 스칼라> 리포지토리⭐](https://github.com/Jpub/LearningScala)
+> * [SCALA API DOCS](https://docs.scala-lang.org/api/all.html)
+> * [tour-of-scala(Korean)](https://docs.scala-lang.org/ko/tutorials/tour/tour-of-scala.html)
+
+### ❏ IDE
+> * [서브라임 텍스트(Sublime Text)-플러그인 설치](http://webdir.tistory.com/396)
+> * [서브라임 텍스트(Sublime Text)-유용한 패키지들 목록](https://opentutorials.org/module/2251/12791)
+> * [서브라임 텍스트(Sublime Text)-PackageControl](https://packagecontrol.io/)
+> * [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux)
+> * [Install IntelliJ IDEA IDE On Ubuntu 16.04 / 17.10 / 18.04](https://websiteforstudents.com/install-intellij-idea-ide-on-ubuntu-16-04-17-10-18-04/)
+
+
+### ❏ Chisel & RocketChip
+> * [rocket-chip/src/main/](https://github.com/freechipsproject/rocket-chip/tree/master/src/main)
+> * [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg)
+> * [[2016] QEMU Support for the RISC-V Instruction Set Architecture by Sagar Karandikar](https://www.youtube.com/watch?v=b5g8u3GA-lo)
+> * [Rocket Chip Generator](https://github.com/freechipsproject/rocket-chip)
+> * [Simple RISC-V 3-stage Pipeline in Chisel⭐](https://github.com/ucb-bar/riscv-mini)
+> * [VLSI Systems Design_2011](http://www-inst.eecs.berkeley.edu/~cs250/fa11/)
+> * [VLSI Systems Design_2017](http://www-inst.eecs.berkeley.edu/~cs250/sp17/)
+> * [Rocket Chip on FPGAs](https://github.com/ucb-bar/fpga-zynq/blob/master/README.md)
+> * [SiFive's Freedom platforms](https://github.com/sifive/freedom)
+> * [Artix-7 35T Arty FPGA Evaluation Kit](https://www.xilinx.com/products/boards-and-kits/arty.html)
+> * [riscv-sodor](https://github.com/librecores/riscv-sodor)
+> * [learning-journey](https://github.com/Intensivate/learning-journey) 
 
 ---
 ### **<div align="right" size='11'>[🔝](#top)</div>**
