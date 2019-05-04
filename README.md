@@ -12,6 +12,7 @@
 > * [pulp-platform on git](https://github.com/pulp-platform)
 > * [pulpissimo on original git](https://github.com/pulp-platform)
 > * [PULPissimo_IMROOT on study archive git⭐](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IMROOT.git)
+> * [westerndigitalcorporation/swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) : A directory of Western Digital’s RISC-V SweRV Cores
 
 ### ❏ Verilog resource
 
