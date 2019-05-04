@@ -11,7 +11,9 @@
 ### ❏ [pulp-platform](https://pulp-platform.org/)
 > * [pulp-platform on git](https://github.com/pulp-platform)
 > * [pulpissimo on original git](https://github.com/pulp-platform)
-> * [PULPissimo_IMROOT on study archive git](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IMROOT.git)
+> * [PULPissimo_IMROOT on study archive git⭐](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IMROOT.git)
+
+### ❏ Verilog resource
 
 ### ❏ RISCV
 > * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
