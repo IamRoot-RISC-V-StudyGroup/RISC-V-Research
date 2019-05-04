@@ -9,7 +9,9 @@
 > * [GIT Cheatsheet for RISC-V study members⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/git#git-cheatsheet-for-risc-v-study-members)
 
 ### ❏ [pulp-platform](https://pulp-platform.org/)
-> * pulp-platform on git(https://github.com/pulp-platform)
+> * [pulp-platform on git](https://github.com/pulp-platform)
+> * [pulpissimo on original git](https://github.com/pulp-platform)
+> * [PULPissimo_IMROOT on study archive git](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IMROOT.git)
 
 ### ❏ RISCV
 > * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
