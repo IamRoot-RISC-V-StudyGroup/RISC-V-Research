@@ -8,6 +8,9 @@
 ### ❏ Git 사용법
 > * [GIT Cheatsheet for RISC-V study members⭐](https://github.com/IamRoot-RISC-V-StudyGroup/RISC-V-Research/tree/master/git#git-cheatsheet-for-risc-v-study-members)
 
+### ❏ [pulp-platform](https://pulp-platform.org/)
+> * pulp-platform on git(https://github.com/pulp-platform)
+
 ### ❏ RISCV
 > * [VexRiscv](https://github.com/SpinalHDL/VexRiscv)
 > * [riscv-soc-cores](https://github.com/open-design/riscv-soc-cores)
