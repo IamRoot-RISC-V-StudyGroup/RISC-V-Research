@@ -11,7 +11,8 @@
 ### ❏ [pulp-platform](https://pulp-platform.org/)
 > * [pulp-platform on git](https://github.com/pulp-platform)
 > * [pulpissimo on original git](https://github.com/pulp-platform) : the microcontroller architecture of the more recent PULP chips, part of the ongoing "PULP platform" collaboration between ETH Zurich and the University of Bologna - started in 2013.
-> * [PULPissimo_IMROOT on study archive git⭐](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IMROOT.git)
+> * [pulp_IAMROOT on study archive git⭐](https://github.com/IamRoot-RISC-V-StudyGroup/pulp_IAMROOT)
+> * [PULPissimo_IAMROOT on study archive git⭐](https://github.com/IamRoot-RISC-V-StudyGroup/PULPissimo_IAMROOT)
 > * [westerndigitalcorporation/swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) : A directory of Western Digital’s RISC-V SweRV Cores
 
 ### ❏ Verilog resource
